@@ -3,6 +3,8 @@ def using_while
   while levitation_force < 10
   levitation_force += 1
 	p levitation_force
+	end
   while levitation_force = 10
   p "Wingardium Leviosa"
+end
 end
